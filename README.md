@@ -3,7 +3,7 @@
 **Materia:** Conmutación y Teletráfico  
 **Docente:** Diego Alejandro Barragán Vargas  
 **Estudiante:** Daniel Suarez  
-**Nota obtenida:** 4.5 / 5.0
+
 
 ---
 

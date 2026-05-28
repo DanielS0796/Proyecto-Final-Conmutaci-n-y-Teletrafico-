@@ -4,9 +4,10 @@
 **Docente:** Diego Alejandro Barragán Vargas  
 **Estudiantes:** 
 ---
-Daniel Felipe Guatibonza 
-Yon Jaider Ruiz
-Oscar David Rada
+**Daniel Felipe Guatibonza**
+**Yon Jaider Ruiz**
+**Oscar David Rada**
+
 ---
 
 ## Descripción

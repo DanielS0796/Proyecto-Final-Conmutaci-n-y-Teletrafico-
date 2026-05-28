@@ -2,7 +2,8 @@
 **Fundación Universitaria Compensar**  
 **Materia:** Conmutación y Teletráfico  
 **Docente:** Diego Alejandro Barragán Vargas  
-**Estudiante:** 
+**Estudiantes:** 
+---
 Daniel Felipe Guatibonza 
 Yon Jaider Ruiz
 Oscar David Rada

@@ -68,10 +68,10 @@ Las dos máquinas virtuales fueron configuradas con adaptador de red en modo **B
 
 # Configuración VMware Bridged
 
-**Maquina Administrador
+**Maquina Administrador**
 <img width="2559" height="1383" alt="Captura de pantalla 2026-05-29 105750" src="https://github.com/user-attachments/assets/7c92bf8c-42d9-4177-9b73-f2c634a3ae61" />
 
-**Maquina Docker de contenedores
+**Maquina Docker de contenedores**
 <img width="2552" height="1332" alt="Captura de pantalla 2026-05-29 105727" src="https://github.com/user-attachments/assets/8af08be2-5135-4b0b-ac7e-66be3e472cec" />
 
 

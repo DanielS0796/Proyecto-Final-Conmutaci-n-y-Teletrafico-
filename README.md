@@ -127,9 +127,14 @@ sudo systemctl start isc-dhcp-server
 sudo journalctl -u isc-dhcp-server -f
 ```
 
-> ![Logs DHCP con DHCPACK](imagenes/dhcp_logs.png)
+**Logs DHCP con DHCPACK**
 
-> ![PC externo con IP asignada](imagenes/dhcp_cliente_ip.png)
+<img width="2559" height="1156" alt="image" src="https://github.com/user-attachments/assets/a14ae127-3e91-4146-842b-1b4f283ab00d" />
+
+
+**PC externo con IP asignada**
+ 
+<img width="2553" height="1281" alt="Captura de pantalla 2026-05-29 110456" src="https://github.com/user-attachments/assets/1db5ef94-e157-47e3-929e-79b911568d32" />
 
 ---
 
@@ -200,11 +205,19 @@ yolo classify predict \
   source=/ruta/imagen.jpg
 ```
 
-> ![Roboflow dataset con 7 clases](imagenes/roboflow_dataset.png)
+**Roboflow dataset con 7 clases**
 
-> ![Resultado predicción ansible 100%](imagenes/yolo_ansible.png)
+<img width="2559" height="1330" alt="image" src="https://github.com/user-attachments/assets/b4b7d2e8-3f6c-43e2-a84e-dfcf02f6279f" />
 
-> ![Resultado predicción terraform 100%](imagenes/yolo_terraform.png)
+**Resultado predicción ansible 100%**
+
+<img width="2525" height="1135" alt="image" src="https://github.com/user-attachments/assets/21fe3195-5a27-432e-9a3f-224ed540c673" />
+
+
+**Resultado predicción terraform 100%**
+
+<img width="2559" height="1150" alt="image" src="https://github.com/user-attachments/assets/d5ad11f6-205b-4431-92b0-618245d68712" />
+
 
 ---
 
@@ -253,9 +266,6 @@ curl -X POST http://192.168.1.17:8000/mensaje \
   -d '{"texto": "¿Qué es Docker?"}'
 ```
 
-> ![Chatbot respondiendo en el navegador](imagenes/chatbot_respuesta.png)
-
----
 
 ## Contenedor Parrot OS
 
@@ -318,9 +328,15 @@ tcpdump -i eth0 -w /data/captura.pcap
 tcpdump -r /data/captura.pcap -n
 ```
 
-> ![nmap escaneando la red](imagenes/parrot_nmap.png)
+**nmap escaneando la red**
 
-> ![tcpdump capturando tráfico del juego](imagenes/parrot_tcpdump.png)
+
+<img width="2559" height="1147" alt="image" src="https://github.com/user-attachments/assets/4546ff72-8b8d-4d09-9803-ef666b8258d5" />
+
+
+**tcpdump capturando tráfico del juego**
+
+<img width="2559" height="1155" alt="Captura de pantalla 2026-05-29 111741" src="https://github.com/user-attachments/assets/2a962c03-a8e9-4a2c-8882-5d2bd9049727" />
 
 ---
 
@@ -405,13 +421,19 @@ Los jugadores conectados al switch físico reciben IP por DHCP y se conectan des
 Online → Enter server address → 192.168.1.2:7509
 ```
 
-> ![kubectl get gameservers estado Ready](imagenes/k8s_gameservers.png)
+**kubectl get gameservers estado Ready**
 
-> ![kubectl get pods agones-system](imagenes/k8s_agones_pods.png)
+<img width="2559" height="1505" alt="image" src="https://github.com/user-attachments/assets/a968f650-802d-4cb7-8474-cbdd68ec6789" />
 
-> ![SuperTuxKart conexión al servidor](imagenes/stk_conexion.png)
 
-> ![Tres jugadores en carrera](imagenes/stk_partida.png)
+**SuperTuxKart conexión al servidor**
+
+<img width="2559" height="1498" alt="image" src="https://github.com/user-attachments/assets/746d71fb-62a4-4596-aa8b-8ef5f7e3c34c" />
+
+
+**Dos jugadores en carrera**
+
+<img width="2559" height="1503" alt="image" src="https://github.com/user-attachments/assets/37f055c8-b6a1-4718-a4a5-057e4243c233" />
 
 ---
 
@@ -481,11 +503,23 @@ sudo systemctl start prometheus node-exporter grafana-server
 | Node Exporter Full | 1860 | CPU, RAM, disco y red de cada nodo |
 | cAdvisor | 19792 | Métricas detalladas de contenedores Docker |
 
-> ![Prometheus targets todos UP](imagenes/prometheus_targets.png)
+**Prometheus targets todos UP**
 
-> ![Grafana Node Exporter Full](imagenes/grafana_node_exporter.png)
+<img width="2559" height="1151" alt="image" src="https://github.com/user-attachments/assets/04f898df-5604-434a-b60c-a93d2bb3a1f3" />
 
-> ![Grafana cAdvisor contenedores](imagenes/grafana_cadvisor.png)
+
+**Grafana Node Exporter Full**
+
+<img width="2559" height="1212" alt="image" src="https://github.com/user-attachments/assets/2a0d0196-5373-4f96-bf89-57d38d4f7f51" />
+
+**Grafana cAdvisor contenedores**
+
+<img width="2559" height="1154" alt="image" src="https://github.com/user-attachments/assets/296f4e10-d7ff-450a-8fb5-700890ff691a" />
+
+
+
+
+
 
 ---
 

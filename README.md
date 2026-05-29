@@ -29,7 +29,7 @@ Proyecto integrador que conecta conceptos de conmutación de redes con orquestac
 
 ---
 
-## Arquitectura
+# Arquitectura
 
 La arquitectura fue implementada sobre tres nodos principales conectados a un switch físico:
 
@@ -46,7 +46,9 @@ Switch Físico
 └── PCs externos       192.168.1.100+ → Clientes del juego
 ```
 
-** Arquitectura 
+# Arquitectura 
+
+
 <img width="1600" height="1020" alt="arquitectura_red" src="https://github.com/user-attachments/assets/d3351537-ae59-4bc0-a704-fa95c286f101" />
 ---
 

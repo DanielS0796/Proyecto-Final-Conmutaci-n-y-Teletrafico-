@@ -29,7 +29,7 @@ Proyecto integrador que conecta conceptos de conmutación de redes con orquestac
 
 ---
 
-**Arquitectura**
+## Arquitectura
 
 La arquitectura fue implementada sobre tres nodos principales conectados a un switch físico:
 

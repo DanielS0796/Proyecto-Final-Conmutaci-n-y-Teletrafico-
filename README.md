@@ -46,7 +46,8 @@ Switch Físico
 └── PCs externos       192.168.1.100+ → Clientes del juego
 ```
 
-> ![Arquitectura de red](imagenes/arquitectura_red.png)
+> ![Arquitectura de red](<img width="1600" height="1020" alt="arquitectura_red" src="https://github.com/user-attachments/assets/d3351537-ae59-4bc0-a704-fa95c286f101" />
+)
 
 ---
 
